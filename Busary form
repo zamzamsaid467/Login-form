@@ -1,1 +1,23 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>LOGIN FORM</title>
+</head>
+<body>
+<div class="container">
+<div class="form_box" id="login form">
+<form>
+<h2>sign up</h2>
+<input type="text" name="username" placeholder ="username">
+<input type="email" name="email" placeholder="email">
+<input type="password" name="password" placeholder="password">
+<Button type="submitt" name="login">login</button>
+<p>DON'T HAVE AN ACCOUNT? <a href="#">register</a></p>
+<p>exist of already logged in</p>
+</form>
+</div>
+</div>
+</body>
+</html>
+
 
